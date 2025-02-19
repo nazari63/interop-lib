@@ -24,3 +24,4 @@ forge install ethereum-optimism/interop-lib
 ## Libraries
 
 - [PredeployAddresses.sol](src/libraries/PredeployAddresses.sol)
+This project is a demonstration of blockchain technology and smart contract integration.
